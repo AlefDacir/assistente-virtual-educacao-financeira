@@ -1,0 +1,14 @@
+[
+  {
+    "meta": "Reserva de emergência",
+    "valor_alvo": 10500.00,
+    "valor_atual": 2400.00,
+    "prazo": "2027-06-30"
+  },
+  {
+    "meta": "Viagem de fim de ano",
+    "valor_alvo": 3000.00,
+    "valor_atual": 900.00,
+    "prazo": "2026-12-15"
+  }
+]

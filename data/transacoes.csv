@@ -1,0 +1,25 @@
+data,categoria,descricao,valor,tipo
+2026-08-01,Renda,Salário,3500.00,receita
+2026-08-02,Moradia,Aluguel,1200.00,despesa
+2026-08-03,Alimentação,Supermercado,350.00,despesa
+2026-08-05,Delivery,iFood - jantar,45.90,despesa
+2026-08-07,Transporte,Uber,28.50,despesa
+2026-08-10,Lazer,Cinema,60.00,despesa
+2026-08-12,Delivery,iFood - almoço,52.30,despesa
+2026-08-15,Alimentação,Feira,80.00,despesa
+2026-08-18,Assinaturas,Streaming de vídeo,39.90,despesa
+2026-08-20,Delivery,Rappi - lanche,38.00,despesa
+2026-08-22,Saúde,Farmácia,65.40,despesa
+2026-08-25,Poupança,Transferência para reserva de emergência,300.00,despesa
+2026-08-28,Lazer,Show,150.00,despesa
+2026-08-30,Transporte,Combustível,220.00,despesa
+2026-09-01,Renda,Salário,3500.00,receita
+2026-09-02,Moradia,Aluguel,1200.00,despesa
+2026-09-04,Alimentação,Supermercado,380.00,despesa
+2026-09-06,Delivery,iFood - jantar,49.90,despesa
+2026-09-09,Delivery,iFood - almoço,55.00,despesa
+2026-09-11,Transporte,Uber,32.00,despesa
+2026-09-13,Delivery,Rappi - lanche,41.50,despesa
+2026-09-15,Assinaturas,Streaming de música,21.90,despesa
+2026-09-17,Poupança,Transferência para reserva de emergência,300.00,despesa
+2026-09-19,Lazer,Livraria,75.00,despesa
