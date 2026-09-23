@@ -28,7 +28,7 @@ if not GEMINI_API_KEY:
     st.stop()
 
 genai.configure(api_key=GEMINI_API_KEY)
-modelo = genai.GenerativeModel("gemini-1.5-flash")
+modelo = genai.GenerativeModel("gemini-3.5-flash-lite")
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 
